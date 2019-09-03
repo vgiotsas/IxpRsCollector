@@ -20,7 +20,7 @@ import java.util.Iterator;
 
 /**
  * <h1>IXP Route Server Collector</h1>
- * The IxpRSCollector queries the <a href="https://www.peeringdb.com/">PeringDB</a> and
+ * The IxpRSCollector queries the <a href="https://www.peeringdb.com/">PeeringDB</a> and
  * <a href="https://www.euro-ix.net/tools/ixp-service-matrix/">Euro-IX</a> datasets to collect the
  * Autonomous System Numbers (ASNs) used by IXP Route Servers and networks.
  * @author Vasileios Giotsas
